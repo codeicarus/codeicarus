@@ -5,10 +5,10 @@
   I am a Full Stack & Blockchain Developer.
 </h3>
 <div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/forbesus/forbesus/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/codeicarus/codeicarus/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -93,38 +93,32 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider2.png" alt="divider"/>
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider2.png" alt="divider"/>
 </div>    
 <div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/portfolio.png" alt="Portfolio"/>
+  <img src="https://github.com/codeicarus/codeicarus/blob/main/portfolio.png" alt="Portfolio"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider1.png" alt="divider"/>
 </div> 
 
    
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=forbesus&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=codeicarus&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ogawakameto" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="mailto:esoph.dev.8@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:ogawakameto@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/r1RSnVIzkNvN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/forbes35" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/forbesus" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://github.com/codeicarus" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </p>
 

@@ -8,6 +8,3 @@
   <img src="https://github.com/codeicarus/codeicarus/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>

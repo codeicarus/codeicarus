@@ -64,32 +64,7 @@
     </tr>
   </table>
   
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Design<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
-       <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/Blender-blue" /> 
-       <img src="https://img.shields.io/badge/WebGL-blue" /> 
-       <img src="https://img.shields.io/badge/Three.js-blue" /> 
-      </td>
-    </tr>
-  </table>
+
 </div>
 
 <div align="center">

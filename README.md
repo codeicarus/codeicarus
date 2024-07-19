@@ -63,29 +63,7 @@
       </td>
     </tr>
   </table>
-  
-
-</div>
-
-<div align="center">
-  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider2.png" alt="divider"/>
-</div> 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
-
-<div align="center">
-  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider2.png" alt="divider"/>
-</div>    
-<div align="center">
-  <img src="https://github.com/codeicarus/codeicarus/blob/main/portfolio.png" alt="Portfolio"/>
-</div> 
-
-<div align="center">
-  <img src="https://github.com/codeicarus/codeicarus/blob/main/divider1.png" alt="divider"/>
-</div> 
-
-   
+</div>   
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=codeicarus&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
